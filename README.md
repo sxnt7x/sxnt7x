@@ -19,6 +19,6 @@ I'm a full-stack developer from Colombia currently building CLI tools and other 
 I need to start finishing projects...
 
 ## 📈 My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxnt7x&theme=nord&hide=prs&hide_border=true&bg_color=00000000)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sxnt7x&theme=nord&hide=prs&hide_border=true&bg_color=00000000)
 
 #### ✝️ “I can do all things through Christ who strengthens me” - Philippians 4:13
