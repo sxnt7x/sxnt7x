@@ -1,10 +1,14 @@
-# Hello! 👋
-![](https://img.shields.io/badge/rust-red?style=for-the-badge&logo=rust)
-![](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/go-21bbff?style=for-the-badge&logo=go&logoColor=white)
+<div align="center">
+    <h1>Hello! 👋</h1>
+    <img width="500px" src="hello.gif">
+    <br />
+    <img src="https://img.shields.io/badge/rust-red?style=for-the-badge&logo=rust" >
+    <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white" >
+    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" >
+    <img src="https://img.shields.io/badge/go-21bbff?style=for-the-badge&logo=go&logoColor=white" >
+   <p><br />I'm a full-stack developer from Colombia who builds CLI tools and other fun projects.</p>
+</div>
 
-I'm a full-stack developer from Colombia currently building CLI tools and other fun projects.
 
 ## 🏆 My skillset
 - ✍️ Neovim, btw
@@ -19,6 +23,7 @@ I'm a full-stack developer from Colombia currently building CLI tools and other 
 I need to start finishing projects...
 
 ## 📈 My stats
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sxnt7x&theme=nord&hide=prs&hide_border=true&bg_color=00000000)
 
 #### ✝️ “I can do all things through Christ who strengthens me” - Philippians 4:13
