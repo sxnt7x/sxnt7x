@@ -1,11 +1,11 @@
 <div align="center">
     <h1>Hello! 👋</h1>
-    <img width="500px" src="hello.gif">
-    <br />
     <img src="https://img.shields.io/badge/rust-red?style=for-the-badge&logo=rust" >
     <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white" >
     <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" >
     <img src="https://img.shields.io/badge/go-21bbff?style=for-the-badge&logo=go&logoColor=white" >
+    <br />
+    <img width="500px" src="hello.gif">
    <p><br />I'm a full-stack developer from Colombia who builds CLI tools and other fun projects.</p>
 </div>
 
